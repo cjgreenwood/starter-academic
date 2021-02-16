@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Christopher J Greenwood
+title: Christopher Greenwood
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Research Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
