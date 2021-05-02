@@ -96,7 +96,7 @@ address = {street = "221 Burwood Hwy", city = "Burwood", region = "VIC", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-37.846588439490056", longitude = "145.11498609999998"}
+# coordinates = {latitude = "-37.846588439490056", longitude = "145.11498609999998"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

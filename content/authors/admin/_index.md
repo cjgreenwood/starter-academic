@@ -17,19 +17,19 @@ organizations:
 bio: My research interests include exploratory/risk behaviour, longitudinal data methods, and data management practices.
 
 # Interests to show in About widget
-interests:
-- Exploratory and risk behaviours
-- Longitdudinal data methods
-- Data management practices
+#interests:
+#- Exploratory and risk behaviours
+#- Longitdudinal data methods
+#- Data management practices
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Psychology 
-    institution: Deakin University
+    institution: Deakin University, Melbourne, Australia
     year: 2021
   - course: Bachelor in Psychology (Honours)
-    institution: Monash University
+    institution: Monash University, Melbourne, Australia
     year: 2014
 
 # Social/Academic Networking
@@ -69,5 +69,5 @@ email: ""
 highlight_name: false
 ---
 
-Christopher Greenwood is a Research Fellow employed at Deakin University . His research interests include exploratory and risk behaviours (e.g., substance use), longitudinal data methods, and data management processes. He works as a data manager and analyst with the Australian Temperament Project and the Centre for Social and Early Emotional Development (SEED).
+Christopher Greenwood is a Research Fellow employed at Deakin University. His research interests include exploratory and risk behaviours (e.g., substance use), longitudinal data methods, and data management processes. He works as a data manager and analyst with the Australian Temperament Project and the Centre for Social and Early Emotional Development (SEED).
 

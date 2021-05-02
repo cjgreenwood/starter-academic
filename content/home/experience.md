@@ -8,10 +8,18 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
+
+design:
+  spacing:
+    padding:
+      - 20px
+      - '0'
+      - '0'
+      - '0'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

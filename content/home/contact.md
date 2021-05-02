@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 40
 
 title: Contact
 subtitle:
@@ -27,4 +27,11 @@ content:
   
 design:
   columns: '2'
+  spacing:
+    padding:
+      - 20px
+      - '0'
+      - 20px
+      - '0'
+
 ---
